@@ -9,7 +9,6 @@ import (
 )
 
 // this is a description for my function "getfloat"
-
 func GetFloat() (float64, error) {
 
 	m := bufio.NewReader(os.Stdin)
