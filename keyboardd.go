@@ -1,3 +1,4 @@
+// this is a description for my package
 package keyboardd
 
 import (
@@ -6,6 +7,8 @@ import (
 	"strconv"
 	"strings"
 )
+
+// this is a description for my function "getfloat"
 
 func GetFloat() (float64, error) {
 
